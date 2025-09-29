@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
-data = pd.read_csv(r"C:\Users\hp\Desktop\проєкт\russia_ukraine_conflict.csv")
+data = pd.read_csv(r"C:\Users\hp\Desktop\numpy_pandas_projects\russia_ukraine_conflict.csv")
 print(data.head())
 
 # колонки та типи даних
